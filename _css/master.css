@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+
+body{
+
+margin-top: 80px;
+
+background-color: grey;
+border: 1px solid black;
+
+max-width: 800px;
+
+text-align: center;
+
+}
